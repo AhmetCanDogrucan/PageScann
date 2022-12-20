@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "PageScann",
+    "slug": "PageScann",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "PageScann"
+}
